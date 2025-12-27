@@ -1,0 +1,372 @@
+{
+    "utilisateurs": [
+        {
+            "user_id": "US_d4470416076b",
+            "pseudo": "Simplice",
+            "mdp_hash": "P5BrbliS6V1DsXVI567x+cfVNobMhSshMLOT3u+VlrE=",
+            "sel": "l2V9BLJ1DKtNx6Q7qkZ+hA==",
+            "badges": [
+                "Fondateur"
+            ],
+            "notifications": [
+                {
+                    "texte": "Nouveau badge : Fondateur",
+                    "lu": true
+                }
+            ],
+            "inbox": [],
+            "outbox": [
+                {
+                    "mp_id": "MP_690a063588b2",
+                    "texte": "J'ai envie de toi, ma chérie.",
+                    "de": "Simplice",
+                    "lu": true
+                }
+            ],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "admin"
+            },
+            "forums_crees": [
+                "SL-famille-nkouari"
+            ]
+        },
+        {
+            "user_id": "US_4258089a31b5",
+            "pseudo": "Nora",
+            "mdp_hash": "qoR6q5VMA/v8bCzZ3l1sPoZP4CPNgDl6GIaITYYYab8=",
+            "sel": "/5/lJBP+0FMjqv0OxUYqxw==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [
+                {
+                    "mp_id": "MP_690a063588b2",
+                    "texte": "Tu me manques.",
+                    "de": "Simplice",
+                    "lu": true
+                }
+            ],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "modo"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_4be2261ff1e2",
+            "pseudo": "Monica",
+            "mdp_hash": "4nTwOi7tQ3fxOKcNO4oNSXI7L2WLpvi6hiYEgFeBx40=",
+            "sel": "zPVTYm3/9uSAvFhNCnRGpg==",
+            "badges": [
+                "Créateur de discussions",
+                "Nouveau contributeur",
+                "Fondateur"
+            ],
+            "notifications": [
+                {
+                    "texte": "Nouveau badge : Créateur de discussions",
+                    "lu": false
+                },
+                {
+                    "texte": "Nouveau badge : Nouveau contributeur",
+                    "lu": false
+                },
+                {
+                    "texte": "Nouveau badge : Fondateur",
+                    "lu": false
+                }
+            ],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-voyageurs": "admin"
+            },
+            "forums_crees": [
+                "SL-voyageurs"
+            ]
+        },
+        {
+            "user_id": "US_3700af3ffd5d",
+            "pseudo": "Samira",
+            "mdp_hash": "VkQw+HDv3Hv/Cr9DQgLGJrqjyWQWWAtZpvaGGF+Ii/I=",
+            "sel": "64ogMhH5pjnNxtGFPosvPQ==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_c97772c2c6c3",
+            "pseudo": "Simplicia",
+            "mdp_hash": "G5641ThBIRa27mhyiabQsojLI0T8Dvj/1MiGXuiRcr0=",
+            "sel": "F7CKNfEdiT74BwAecQvp6g==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_9e83d3161ad1",
+            "pseudo": "Anaelle",
+            "mdp_hash": "d5+SwIZddsjW6I0gMxur59ZgeyJWn3xfHsbCFJPsb5I=",
+            "sel": "Tz8vJkWfi277R2808k94Pw==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_9d735621cf3f",
+            "pseudo": "Axel",
+            "mdp_hash": "G2BqDKxK1hs7XXGKLqPb5otV6h11APboDiEsYTqWP1I=",
+            "sel": "nWhU690X6H94UQnKMnhmFw==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_818e4143b115",
+            "pseudo": "Gael",
+            "mdp_hash": "um4SST/mmwudgwFaxpqy/a3kXe2c7JOL1AvMecfwONU=",
+            "sel": "8BqzqpRxCG8bRzeJnGjbNQ==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_daf72028216b",
+            "pseudo": "Allégresse",
+            "mdp_hash": "4P+I2km+3FXO13AIPNDrat8vUBUM+W0dTjuUArUYyQw=",
+            "sel": "/hQ6yharOUcJc4Z1uGOFsw==",
+            "badges": [
+                "Nouveau contributeur"
+            ],
+            "notifications": [
+                {
+                    "texte": "Nouveau badge : Nouveau contributeur",
+                    "lu": false
+                }
+            ],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_3ad6cbebb696",
+            "pseudo": "Stella",
+            "mdp_hash": "zY7+D50C3OhYT5jV/Ykg+HEFGfAT6CUof8/t5xwHsjc=",
+            "sel": "4BAMRqIfmyxG0tIzf5yWdA==",
+            "badges": [
+                "Nouveau contributeur",
+                "Apprécié"
+            ],
+            "notifications": [
+                {
+                    "texte": "Nouveau badge : Nouveau contributeur",
+                    "lu": true
+                },
+                {
+                    "texte": "Nouveau badge : Apprécié",
+                    "lu": false
+                }
+            ],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-voyageurs": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_29dfc906943d",
+            "pseudo": "Zoé",
+            "mdp_hash": "VaEGFWXfSMZ7gUyyto65xg+kPm6Ujl8KH52OVg4X6E0=",
+            "sel": "Sr9t0dsbv/W63SVGHNBWiA==",
+            "badges": [
+                "Créateur de discussions",
+                "Nouveau contributeur",
+                "Apprécié"
+            ],
+            "notifications": [
+                {
+                    "texte": "Nouveau badge : Créateur de discussions",
+                    "lu": true
+                },
+                {
+                    "texte": "Nouveau badge : Nouveau contributeur",
+                    "lu": true
+                },
+                {
+                    "texte": "Nouveau badge : Apprécié",
+                    "lu": false
+                }
+            ],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {
+                "SL-famille-nkouari": "membre",
+                "SL-voyageurs": "membre"
+            },
+            "forums_crees": []
+        },
+        {
+            "user_id": "US_6c985372714e",
+            "pseudo": "Claudin",
+            "mdp_hash": "l20r3E0/fn25NJ8z4aOQymk19mbvb0AxGNratNniFhE=",
+            "sel": "mqzvbfHYf6KNqYC14vF69w==",
+            "badges": [],
+            "notifications": [],
+            "inbox": [],
+            "outbox": [],
+            "forums_rejoints": {},
+            "forums_crees": []
+        }
+    ],
+    "forums": [
+        {
+            "forum_id": "FO_05766914d355",
+            "nom": "Famille NKOUARI",
+            "slug": "SL-famille-nkouari",
+            "admin": "Simplice",
+            "verrouille": false,
+            "moderateurs": [
+                "Nora"
+            ],
+            "membres": [
+                "Zoé",
+                "Simplicia",
+                "Samira",
+                "Simplice",
+                "Anaelle",
+                "Gael",
+                "Nora",
+                "Axel",
+                "Allégresse"
+            ],
+            "anciens_membres": [
+                "Monica",
+                "Stella"
+            ],
+            "bannis": [
+                "Monica",
+                "Stella"
+            ],
+            "fils": [
+                {
+                    "fil_id": "FI_cfb46d8631df",
+                    "titre": "Les nièces et neveux",
+                    "createur": "Zoé",
+                    "verrouille": false,
+                    "messages": [
+                        {
+                            "msg_id": "ME_e6f6fc4ffdf0",
+                            "auteur_pseudo": "Zoé",
+                            "texte": "Je suis la nièce !",
+                            "likes": [
+                                "Gael"
+                            ],
+                            "dislikes": []
+                        },
+                        {
+                            "msg_id": "ME_5502fdf6ad64",
+                            "auteur_pseudo": "Stella",
+                            "texte": "J'en suis une aussi !",
+                            "likes": [
+                                "Zoé"
+                            ],
+                            "dislikes": []
+                        },
+                        {
+                            "msg_id": "ME_c9df199160a6",
+                            "auteur_pseudo": "Allégresse",
+                            "texte": "Moi aussi, j'en suis une.",
+                            "likes": [],
+                            "dislikes": [
+                                "Zoé"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "fil_id": "FI_95d28ae0023e",
+                    "titre": "Les enfants",
+                    "createur": "Monica",
+                    "verrouille": false,
+                    "messages": [
+                        {
+                            "msg_id": "ME_f2cdbcc50e34",
+                            "auteur_pseudo": "Monica",
+                            "texte": "Je suis la première fille de Papa Simplice.",
+                            "likes": [],
+                            "dislikes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "forum_id": "FO_fa9afa5c3bf8",
+            "nom": "Voyageurs",
+            "slug": "SL-voyageurs",
+            "admin": "Monica",
+            "verrouille": false,
+            "moderateurs": [],
+            "membres": [
+                "Zoé",
+                "Monica",
+                "Stella"
+            ],
+            "anciens_membres": [],
+            "bannis": [],
+            "fils": [
+                {
+                    "fil_id": "FI_a6dbba7c7f8a",
+                    "titre": "Voyage raté",
+                    "createur": "Monica",
+                    "verrouille": false,
+                    "messages": [
+                        {
+                            "msg_id": "ME_30006fef7bb1",
+                            "auteur_pseudo": "Monica",
+                            "texte": "J'ai entrepris plusieurs projets de voyages, pour la France, qui se sont avortés à chaque fois.",
+                            "likes": [],
+                            "dislikes": []
+                        },
+                        {
+                            "msg_id": "ME_d7d4a4e523ed",
+                            "auteur_pseudo": "Stella",
+                            "texte": "Courage ma chérie, ne te décourage surtout pas ! Le succès finira par arrivée.",
+                            "likes": [],
+                            "dislikes": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "forums_supprimes": {}
+}

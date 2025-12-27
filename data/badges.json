@@ -1,0 +1,14 @@
+{
+    "activite": {
+        "messages": {
+            "1": "Nouveau contributeur",
+            "10": "Participant régulier",
+            "100": "Pilier du forum"
+        }
+    },
+    "evenements": {
+        "creation_forum": "Fondateur",
+        "creation_fil": "Créateur de discussions",
+        "premier_like": "Apprécié"
+    }
+}
